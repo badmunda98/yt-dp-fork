@@ -68,7 +68,7 @@ from ..dependencies import websockets, xattr
 
 
 # Define the path to the cookies.txt file based on the cloned repository's directory
-repo_folder = 'ytdlbot'  # Folder name from the cloned GitHub repository
+repo_folder = 'yt_dlp'  # Folder name from the cloned GitHub repository
 cookiefile = os.path.join(repo_folder, 'cookies.txt')
 
 __name__ = __name__.rsplit('.', 1)[0]  # Pretend to be the parent module
