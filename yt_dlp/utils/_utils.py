@@ -1,3 +1,13 @@
+# Copyright (C) 2024 by Badhacker98@Github, < https://github.com/Badhacker98 >.
+# Owner https://t.me/ll_BAD_MUNDA_ll
+
+#!/usr/local/bin/python3
+# coding: utf-8
+
+# ytdlbot - utils.py
+# 9/1/21 22:50
+#
+
 import asyncio
 import atexit
 import base64
